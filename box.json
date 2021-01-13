@@ -1,8 +1,8 @@
 {
     "name":"PresideCMS Extension: Simple Single Sign On Identity Provider",
     "type":"preside-extensions",
-    "version":"1.0.1",
-    "location":"https://github.com/pixl8/preside-ext-simple-sso-idp/archive/v1.0.1.zip",
+    "version":"$VERSION_NUMBER",
+    "location":"$DOWNLOAD_URL",
     "author":"Pixl8 Interactive",
     "directory":"application/extensions",
     "homepage":"https://github.com/pixl8/preside-ext-simple-sso-idp",
